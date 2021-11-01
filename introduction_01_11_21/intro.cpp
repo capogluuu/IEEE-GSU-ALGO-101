@@ -1,17 +1,7 @@
 //TENGRI BIZ MENEN
 
 #include <bits/stdc++.h>
-#define pb push_back
-#define ll long long
-#define mp make_pair
-#define tc int t;cin>>t;for(int i=1;i<=t;i++) f(i);
-#define read(x) freopen(x,"r",stdin)
-#define write(x) freopen(x,"w",stdout)
-#define fr first
-#define sc second
-#define sz size
-#define fi(x) for(int i=0;i<x;i++)
-#define fj(x) for(int j=0;j<x;j++)
+
 using namespace std;
 typedef pair<int,int> pint;
 typedef vector<int> vint;
