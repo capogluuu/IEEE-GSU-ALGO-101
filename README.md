@@ -9,5 +9,5 @@ It contains the codes of the algorithm 101 course carried out at Galatasaray Uni
 *
 
 ## CONTRIBUTORS
-*
+* Akif Emre Çapoğlu
 *
