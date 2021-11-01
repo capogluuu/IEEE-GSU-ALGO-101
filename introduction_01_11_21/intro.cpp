@@ -1,5 +1,15 @@
 //TENGRI BIZ MENEN
+/*
+!!!
+İlk kütüphane [cannot open source file "bits/stdc++.h"]	
+hatası veriyorsa onu aşağıdaki kütüphanelerle değiştirebilirsiniz.
+Onu silin ve aşağıdakileri yapıştırın.
+!!!
 
+#include <iostream>
+#include <vector>
+
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
