@@ -6,12 +6,25 @@ It contains the codes of the algorithm 101 course carried out at Galatasaray Uni
 
 ## COURSE CONTENT
 * 01.11.2021 -> [Introduction to CP](introduction_01_11_21/intro.cpp)
-*
+* 10.11.2021 -> [Big O Notation - Bubble Sort](week2_10_11_21/)
 
 ## CONTRIBUTORS
 * Akif Emre Çapoğlu
 * Sadık Efe Sarıtunalı
 
 ## SYLLABUS
-![image](https://user-images.githubusercontent.com/35727819/139908834-99e5e9c4-8001-4965-9620-8d8c8efce881.png)
+| Date | Algorithm  | Programming | Lecturer | |
+| ------------- | ------------- | ------------- | ------------- |------------- |
+| 01.11.2021  | -  | Input/Output - Vector - Header/Library | Efe Sarıtunalı  | :heavy_check_mark: |
+| 10.11.2021  | Big O Notation - Bubble Sort   | Oparators - If/Else - Logical Expression - For/While - Continue - break | Akif Çapoğlu  |  |
+| * 17.11.2021  | -  | Iterators - Pairs - Queue - Deques - Priorty Queues - Stack  | Efe Sarıtunalı  |  |
+| 01.12.2021  | Linear Search - Binary Search - Tenary Search  | - | Akif Çapoğlu  |  |
+| 08.12.2021  | Recursion - Find Prime Number  | Funcitons  | Efe Sarıtunalı  |  |
+| 15.12.2021  | Modular Arithmetic - GCD/LCM  Algortihm - Finding Prime Factors  | -  | Akif Çapoğlu  |  |
+| 22.12.2021  | Graph Algorithm  | 2-D Array/Matrix  | Efe Sarıtunalı  |  |
+| 29.12.2021  | Graph Algorithm  | -  | Akif Çapoğlu  |  |
+
+> * In case of no class on November 17, the syllabus will be pushed forward by one week.
+
+
 
