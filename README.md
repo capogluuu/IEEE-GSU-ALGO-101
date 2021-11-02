@@ -11,3 +11,7 @@ It contains the codes of the algorithm 101 course carried out at Galatasaray Uni
 ## CONTRIBUTORS
 * Akif Emre Çapoğlu
 * Sadık Efe Sarıtunalı
+
+## SYLLABUS
+![image](https://user-images.githubusercontent.com/35727819/139908834-99e5e9c4-8001-4965-9620-8d8c8efce881.png)
+
