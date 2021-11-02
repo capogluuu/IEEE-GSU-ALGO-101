@@ -4,7 +4,7 @@
 
 It contains the codes of the algorithm 101 course carried out at Galatasaray University.
 
-Il contient les codes du cours algorithme 101 réalisé à l'Université de Galatasaray.
+Il contient les codes du cours algorithme 101 réalisé à l'Université Galatasaray.
 
 ## COURSE CONTENT / LE CONTENU DES COURS
 * 01.11.2021 -> [Introduction to CP](introduction_01_11_21/intro.cpp)
