@@ -18,7 +18,7 @@ Il contient les codes du cours algorithme 101 réalisé à l'Université Galatas
 | Date | Algorithm  | Programming | Lecturer | |
 | ------------- | ------------- | ------------- | ------------- |------------- |
 | 01.11.2021  | -  | Input/Output - Vector - Header/Library | Efe Sarıtunalı  | :heavy_check_mark: |
-| 10.11.2021  | Big O Notation - Bubble Sort   | Oparators - If/Else - Logical Expression - For/While - Continue - Break | Akif Çapoğlu  |  |
+| 10.11.2021  | Big O Notation - Bubble Sort   | Oparators - If/Else - Logical Expression - For/While - Continue - Break | Akif Çapoğlu  | :heavy_check_mark:  |
 | * 17.11.2021  | -  | Iterators - Pairs - Queues - Deques - Priority Queues - Stack  | Efe Sarıtunalı  |  |
 | 01.12.2021  | Linear Search - Binary Search - Tenary Search  | - | Akif Çapoğlu  |  |
 | 08.12.2021  | Recursion - Find Prime Number  | Functions  | Efe Sarıtunalı  |  |
