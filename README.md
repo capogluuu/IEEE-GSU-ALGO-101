@@ -29,5 +29,8 @@ Il contient les codes du cours algorithme 101 réalisé à l'Université Galatas
 > * In case of no class on November 17, the syllabus will be pushed forward by one week.
 > * En cas d'absence de cours le 17 novembre, le programme sera avancé d'une semaine.
 
+## RESOURCES / LES RESSOURCES
+[inzva Bundles](https://github.com/inzva/Algorithm-Program)
+
 
 
