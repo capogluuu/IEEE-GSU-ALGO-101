@@ -33,7 +33,7 @@ int main()
 	int element;
 	vector<int> orderedArray;
 	orderedArray = { 1,2,3,4,5,6,7,8,9,10 };
-	cout << "Lutfen bulunmasini istediginiz elemaný giriniz : ";
+	cout << "Lutfen bulunmasini istediginiz elemanÃ½ giriniz : ";
 	cin >> element;
 	//Find index number of Element
 	int index = binarySearch(orderedArray, element);
