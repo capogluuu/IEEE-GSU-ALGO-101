@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+//O(log3 n)
 using namespace std;
 int ternarySearch(vector<int> ar, int key )
 {
